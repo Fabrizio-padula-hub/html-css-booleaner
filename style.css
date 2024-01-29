@@ -1,10 +1,21 @@
 #pattern{
     background-color:#4EA0FF ;
     background-image: url('./img/pattern.png');
-    height: 240px;
 }
 
 #logo{
     width: 20%;
     margin-top: 5%;
+}
+
+h1{
+    font-size: 80px;
+}
+
+#link{
+    font-size: 20px;
+    color: #808080;
+}
+#booleaner{
+    text-decoration: none;
 }
