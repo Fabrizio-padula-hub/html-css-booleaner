@@ -1,0 +1,10 @@
+#pattern{
+    background-color:#4EA0FF ;
+    background-image: url('./img/pattern.png');
+    height: 240px;
+}
+
+#logo{
+    width: 20%;
+    margin-top: 5%;
+}
