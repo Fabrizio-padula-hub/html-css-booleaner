@@ -15,6 +15,7 @@ h1{
 #link{
     font-size: 20px;
     color: #808080;
+    margin-bottom: 30px;
 }
 #booleaner{
     text-decoration: none;
@@ -42,3 +43,30 @@ thead{
     background-color: #B1E5F2;
 }
 
+#interessi{
+    color: #808080;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#sugg1{
+    margin-top: 10px;
+    width: 414px;
+    height: 318px;
+    background-image: url('./img/monitor.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+#sugg2{
+    width: 414px;
+    height: 318px;
+    background-image: url('./img/graph.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
