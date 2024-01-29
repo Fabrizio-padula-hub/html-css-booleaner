@@ -19,3 +19,26 @@ h1{
 #booleaner{
     text-decoration: none;
 }
+
+#sottolineato{
+    background-color: gold;
+}
+
+table{
+    width: 1000px;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+#sezione1, #sezione2{
+    width: 200px;
+}
+#sezione3{
+    width: 800px;
+}
+#corpo1, #corpo3{
+    background-color: #B1E5F2;
+}
+
